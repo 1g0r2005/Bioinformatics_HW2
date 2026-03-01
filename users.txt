@@ -1,0 +1,4 @@
+ 19:50:52 up  3:37,  1 user,  load average: 0.10, 0.04, 0.01
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+teviii   pts/1    -                10:47    9:02m  0.06s  0.04s -bash
+uid=1000(teviii) gid=1000(teviii) groups=1000(teviii),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),107(netdev)
